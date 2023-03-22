@@ -77,3 +77,5 @@ J = 0
 K = 0
 Q, Q_bar = jk_flip_flop(J, K, Q, Q_bar)
 print("Q:", Q, "Q_bar:", Q_bar)
+
+#deep
